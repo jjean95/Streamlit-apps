@@ -5,7 +5,7 @@ Repo for 12 Data Science Apps with Python &amp; Streamlit
 | --- | ---:  | ---:  | ---:  |
 | 1 | Simple Stock Price  |
 | 2 | Simple Bioinformatics DNA Count |
-| 3 | EDA Basketball |
+| 3 | EDA Basketball | Page | [Code](https://github.com/jjean95/Streamlit-apps/blob/main/basketball_app.py) |
 | 4 |  EDA Football |
 | 5 | EDA SP500 Stock Price |
 | 6 | EDA Cryptocurrency  |
